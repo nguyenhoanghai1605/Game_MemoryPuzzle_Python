@@ -6,5 +6,5 @@
 
 ![app](https://github.com/user-attachments/assets/15c8ed8c-70a1-4792-afa7-78f17c82d7a1)
 
-## Author
+## Author:
 Co-authored-by: Nguyen Hoang Hai - [@nguyenhoanghai1605](https://github.com/nguyenhoanghai1605)
